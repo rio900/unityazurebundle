@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 725266179
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mycube.hd
+      Dependencies: {}
+    Info_1:
+      Name: mytank.hd
+      Dependencies: {}
